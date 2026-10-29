@@ -1,0 +1,11 @@
+{
+  "name": "winwinbot",
+  "version": "1.0.0",
+  "description": "Конструктор ботов WinWinBot в вашей нейросети: MCP-сервер платформы и эксперт по проектированию ботов, воронкам и маркетингу в Telegram, VK, MAX и Одноклассниках",
+  "author": {
+    "name": "WinWinBot",
+    "url": "https://winwinbot.ru"
+  },
+  "homepage": "https://winwinbot.ru/features/mcp",
+  "keywords": ["winwinbot", "chatbot", "telegram", "vk", "max", "funnels", "marketing", "mcp"]
+}

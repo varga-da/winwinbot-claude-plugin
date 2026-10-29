@@ -1,0 +1,18 @@
+{
+  "name": "winwinbot",
+  "owner": {
+    "name": "WinWinBot",
+    "url": "https://winwinbot.ru"
+  },
+  "metadata": {
+    "description": "Плагины платформы чат-ботов WinWinBot для Claude Code и Claude Desktop"
+  },
+  "plugins": [
+    {
+      "name": "winwinbot",
+      "source": "./winwinbot",
+      "description": "Конструктор ботов WinWinBot в вашей нейросети: MCP-сервер платформы и эксперт по проектированию ботов, воронкам и маркетингу в мессенджерах",
+      "category": "productivity"
+    }
+  ]
+}

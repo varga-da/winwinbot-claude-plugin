@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "winwinbot": {
+      "type": "http",
+      "url": "https://my.winwinbot.com/api/mcp"
+    }
+  }
+}
